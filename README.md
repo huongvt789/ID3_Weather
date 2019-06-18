@@ -10,4 +10,4 @@ Bài tập lớn chuẩn Big Data - ID3
 
 > + Cách chạy: Chú ý (cấu hình đường dẫn) --- Chương trình này chạy trên hệ điều hành Linux.   
 - Vào file: WeatherDriver -> Run in haddop.
-- Xem kết quả tại folder: /put.
+- Xem kết quả tại folder: /output.
