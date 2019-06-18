@@ -1,6 +1,6 @@
 # ID3_Weather
 Bài tập lớn chuẩn Big Data - ID3
-> + Exlain:
+> + Mô tả:
 - Bài toán xử lý dữ liệu về thời tiết. Chương trình sử dụng giải thuật ID3 với kết quả cuối cùng là đưa ra các luật của cây.
 - Bài toán sử dụng hadoop mapreduce để xử lý dữ liệu và build tree.
 - Chi tiết file:
